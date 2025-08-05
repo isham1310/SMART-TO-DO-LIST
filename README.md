@@ -23,7 +23,7 @@ Vanilla JavaScript: Powers all the interactive functionality, including DOM mani
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/isham1310/SMART-TO-DO-LIST.git
 
 Navigate to the project directory:
 
