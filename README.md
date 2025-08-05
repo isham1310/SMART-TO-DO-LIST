@@ -27,7 +27,7 @@ git clone https://github.com/your-username/your-repository-name.git
 
 Navigate to the project directory:
 
-cd 2 DAY
+cd SMART-TO-DO-LIST
 
 Open the file:
 Simply open the index.html file in your preferred web browser (e.g., Chrome, Firefox, or Safari). No server or build steps are required.
