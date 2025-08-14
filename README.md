@@ -1,4 +1,4 @@
-# 2 DAY
+# 2 TASK
 Simple To-Do List App
 📝 Overview
 This is a clean and straightforward To-Do List web application built using fundamental front-end technologies: Vanilla JavaScript, HTML, and CSS. The app allows users to manage their daily tasks efficiently by providing core functionalities like adding, marking as complete, and deleting tasks in real-time.
